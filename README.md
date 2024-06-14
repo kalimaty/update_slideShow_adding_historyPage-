@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
+![500](https://github.com/kalimaty/update_slideShow_adding_historyPage-/assets/105967966/72ff57a6-5809-4a82-950a-053c90a89baa)
 
-![3](https://github.com/kalimaty/update_slideShow_adding_historyPage-/assets/105967966/9a027b0a-223a-4d84-af5b-bba194bb6bad)
 
 
 ![600](https://github.com/kalimaty/update_slideShow_adding_historyPage-/assets/105967966/9e2d063c-296d-4896-80f4-0e9e8b43d0c9)
